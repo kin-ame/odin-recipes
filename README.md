@@ -1,2 +1,2 @@
 # odin-recipes
-a recipe website following The Odin Project curriculum
+a recipe webpage following The Odin Project foundation course
