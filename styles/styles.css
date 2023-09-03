@@ -1,0 +1,19 @@
+img {
+    height: 500px;
+    width: 500px;
+}
+
+h1 {
+    color:brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+h3 {
+    color:darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color:dimgray
+}
